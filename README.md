@@ -2,7 +2,7 @@
 Welcome to the 3D Apple Website, an interactive and visually engaging web application built with modern front-end technologies. This project showcases a stunning 3D Apple model with smooth animations and user interactions.
 
 <!-- 3D Apple Website Demo-->
-/Apple-Iphone-Demo.gif
+Apple-Iphone-Demo.gif
 
 🌟 Project-Based Learning
 This project is part of a project-based learning journey where I applied and deepened my knowledge in the following technologies and skills:
